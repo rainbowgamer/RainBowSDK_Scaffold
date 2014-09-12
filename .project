@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>Mob_RainBowDemo0</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>com.adobe.flexbuilder.project.flexbuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+		<buildCommand>
+			<name>com.adobe.flexbuilder.project.apollobuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>com.adobe.flexide.project.multiplatform.multiplatformasnature</nature>
+		<nature>com.adobe.flexide.project.multiplatform.multiplatformnature</nature>
+		<nature>com.adobe.flexbuilder.project.apollonature</nature>
+		<nature>com.adobe.flexbuilder.project.actionscriptnature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>libs/Lib_RainBowSDK.swc</name>
+			<type>1</type>
+			<location>K:/GameHM/Project/Lib_RainBowSDK/bin/Lib_RainBowSDK.swc</location>
+		</link>
+	</linkedResources>
+</projectDescription>

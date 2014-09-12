@@ -1,0 +1,12 @@
+<TextureAtlas imagePath="UIloading.png">
+  <SubTexture name="img_copylogo" x="932" y="0" width="85" height="7" frameX="-220" frameWidth="527" frameY="-5" frameHeight="15"/>
+  <SubTexture name="img_loadyibai" x="0" y="0" width="860" height="40"/>
+  <SubTexture name="img_buttondown14" x="542" y="126" width="162" height="96" frameX="-4" frameWidth="170" frameY="-2" frameHeight="100"/>
+  <SubTexture name="img_loads" x="0" y="82" width="854" height="32" frameX="-6" frameWidth="870" frameY="-9" frameHeight="50"/>
+  <SubTexture name="img_loadziti" x="260" y="126" width="280" height="41" frameX="-5" frameWidth="290" frameY="-5" frameHeight="50"/>
+  <SubTexture name="img_buttonup12" x="856" y="82" width="162" height="96" frameX="-4" frameWidth="170" frameY="-2" frameHeight="100"/>
+  <SubTexture name="img_newline" x="0" y="116" width="851" height="8"/>
+  <SubTexture name="img_loadingtxt" x="0" y="126" width="258" height="65" frameX="-44" frameWidth="344" frameY="-14" frameHeight="80"/>
+  <SubTexture name="img_blackbg" x="862" y="0" width="68" height="45" frameX="0" frameWidth="69" frameY="0" frameHeight="46"/>
+  <SubTexture name="img_loadx" x="0" y="42" width="859" height="38" frameX="-4" frameWidth="870" frameY="-6" frameHeight="50"/>
+</TextureAtlas>
